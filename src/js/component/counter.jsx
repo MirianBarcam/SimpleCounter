@@ -1,7 +1,7 @@
 import React from "react";
 import { FaStopwatch} from "react-icons/fa";
 
-import "/workspace/react-hello/src/styles/counter.css";
+import "./../../styles/counter.css";
 
 const Counter = (prop) => {
 
